@@ -1,0 +1,8 @@
+
+1. Write a shell script to calculate the sum of 1~100.
+
+2. Using a shell script create directories from A-Z in root dir. Then copy all the directories in the /root/ directory to the /tmp/ directory.
+
+3. Write a shell script which lists just the directories in the current directory (tmp)
+
+4. Write a script that will go through the directories in tmp and create a file inside the dir that called <letter>_file.txt and write inside the file “Hello <letter>, welcome to shell!”. For example in dir A there should be file A_file.txt and written the file should be “Hello A, welcome to shell!”
